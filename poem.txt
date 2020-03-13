@@ -1,4 +1,4 @@
-The rainbow colors are
+The rainbow colors and unicorn
 
 purple
 pink 
@@ -6,6 +6,8 @@ orange
 blue
 red
 green
+unicorn
 Yellow
 
 This are the colors in Rainbow
+added unicorn
