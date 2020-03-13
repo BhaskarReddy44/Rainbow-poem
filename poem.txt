@@ -6,5 +6,6 @@ orange
 blue
 red
 green
+Yellow
 
 This are the colors in Rainbow
